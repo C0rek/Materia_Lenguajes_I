@@ -1,0 +1,9 @@
+def linea_examen(X):
+    C=0
+    for i in range(len(texto)):
+        E=texto[i].find("Examen")
+        e=texto[i].find("examen")
+        if (E!=-1 or e!=-1):
+            print("Encontro")
+        else:
+            print("No encontro")
