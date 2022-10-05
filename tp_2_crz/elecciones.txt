@@ -1,0 +1,9 @@
+Juarez Pedro; 23090778; M; 41; SI
+Villa Maria; 30123540; F; 30; SI
+Hector Vazques; 10121557; M; 72; SI
+Ballesteros Juan Pablo; 42898121; M; 17; NO
+Esquivel Maria Teresa; 2323409; F; 71; SI
+Esposito Mariano; 32457821; M; 32; NO
+Juarez Juan; 10121544; M; 75; NO
+Teresa Ballesteros; 43136993; F; 17; SI
+Pablo Pipolito; 43136995; M; 17; SI

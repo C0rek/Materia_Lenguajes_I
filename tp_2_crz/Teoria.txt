@@ -1,0 +1,61 @@
+-Presentamos Costos
+
+-Elias Maximiliano Apaza
+-Mauricio Ezequiel Cardozo 
+-Jose Ignacio Perez
+-Agustina Rosario Vazquez
+-Tomas Rodriguez Zoni
+
+
+Al resolver un problema, hay distintas formas para desarrollarlo
+Estos pueden ser
+- Que el algoritmo sea facil de entender, codificar y depurar
+- Que el algoritmo sea eficiente y veloz
+
+Para un programa que se va a ejecutar una o pocas veces, es muy probable que
+el tiempo de programacion exceda el costo de ejecucion del programa.
+
+En cambio si el programa se va a ejecutar muchas veces, se priorizaria la 
+eficiencia del programa, mas si las entradas de datos son muy grandes
+
+Es mas ventajoso (economicamente) realizar un algoritmo complejo siempre que el
+tiempo de ejecucion del programa resultante sea significativamente menor que el
+de un programa mas evidente. Aun asi, quizas es mas comveniente desarrolar un 
+algoritmo simple
+
+De esto concluimos que un programador no solo debe estar al tanto de las formas
+de lograr rapidez en la ejecucion de un programa, sino que tambien debe saber 
+cuando aplicar o no esas tecnicas
+
+
+
+
+
+-Medicion del tiempo de ejecucion de un programa 
+
+
+Los tiempo de ejecucion de un programa depende de: 
+1. los datos de entrada 
+2.la calidad del codigo generado por el compilador utilizado para crear el 
+programa objeto
+3. naturaleza y rapidez de las instrucciones empleadas en la ejecucion
+4. la complejidad de tiempo del algoritmo base del programa
+
+Con freciencia el tiempo de ejecucion no depende de la entrada exacta, sino
+solo de su tamaño
+
+Se acostumbra a denominar T(n) al tiempo de ejecucion de un programa con una 
+entrada n. Por ejemplo algunos programas pueden tener tiempo de ejecucion 
+T(n)=cn^2 donde c es cte
+
+Para muchos programas, el tiempo de ejecucion es una funcion de entrada 
+especifica y no solo el tamaño de ella. En este caso T(n) se define como 
+el maximo valor del tiempo de ejecucion. Tambien  suele conciderarse
+Tpromedio(n) como tiempo promedio que parece ser una medida razonable pero
+es engañoso pensar que todas las entradas son igualmente probables. Se utilizara
+este tiempo de ejecucion como medida principal de la complejidad
+del tiempo
+
+Es importante aclarar que T(n) depende del compilador y de la maquina usada
+Esto implica que no es posible expresarlo en unidades estandares de tiempo
+(como segundos)

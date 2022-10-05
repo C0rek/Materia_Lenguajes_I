@@ -1,0 +1,12 @@
+20200321, 2564, Roque Tulio,3100
+20200402, 2566, Javier Pintos, 3400
+20200324,2564,Roque Tulio,  1500
+20200323, 345, Carlos Alvarez, 2000
+20200302, 345, Carlos Alvarez, 5600
+20200402, 2567, Amalia Cresenti,  1300
+20200402, 2580, Ana Mayorino,590
+20200321, 760,Alejandro Meyer, 5100
+20200324, 348, Mario Arguello, 2100
+20200415, 345, Carlos Alvarez,12000
+20200402, 2582, Gastón Lames, 1650
+20200403, 2582, Gastón Lames, 1680
